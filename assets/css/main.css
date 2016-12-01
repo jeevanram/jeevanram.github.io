@@ -332,8 +332,9 @@ ul#nav li a:hover { color: #F06000; background-color: transparent !important; }
 }
 
 #headerwrap h1 {
-	font-size: 80px;
+	font-size: 50px;
 	color: white;
+	word-break: break-all;
 }
 
 #headerwrap h3 {
@@ -341,7 +342,7 @@ ul#nav li a:hover { color: #F06000; background-color: transparent !important; }
 	color: white;
 }
 
-/* Intnro Wrap */
+/* Intro Wrap */
 
 #intro {
 	background: #2c3e50;
