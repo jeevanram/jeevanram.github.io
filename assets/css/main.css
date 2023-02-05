@@ -317,11 +317,11 @@ ul#nav li a:hover { color: #F06000; background-color: transparent !important; }
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/JK.png) no-repeat center top;
+	background: url(../img/JK.JPG) no-repeat center top;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 600px;
+	/*min-height: 600px;*/
 	width: 100%;
 	
     -webkit-background-size: 100%;
