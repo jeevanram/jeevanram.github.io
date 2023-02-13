@@ -459,3 +459,13 @@ ul#nav li a:hover { color: #F06000; background-color: transparent !important; }
 sm {
 	font-size: 12px;
 }
+
+.company-label{
+	font-weight: bold;
+    font-size: large;
+    margin-left: 8%;
+}
+
+.company-designation{
+	text-decoration:underline;
+}
