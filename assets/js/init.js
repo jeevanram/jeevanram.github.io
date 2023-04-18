@@ -1,9 +1,12 @@
+ jQuery.htmlPrefilter = function( html ) {
+	return html;
+};
+
  jQuery(document).ready(function($) {
 
 /*----------------------------------------------------*/
 /* Smooth Scrolling
 ------------------------------------------------------ */
-
    $('.smoothscroll').on('click',function (e) {
 	    e.preventDefault();
 
